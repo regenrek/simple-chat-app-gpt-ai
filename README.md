@@ -1,6 +1,4 @@
-Certainly! Here's the updated README with the code block delimiters changed to ```:
 
-```markdown:README.md
 # GPT Chat App
 
 A basic chat application powered by GPT, built with Nuxt 3.
@@ -91,6 +89,3 @@ For more detailed information on deployment and advanced configuration, check ou
 - My X [Twitter](https://twitter.com/regenrek)
 - Star on Github [GitHub repo](https://github.com/zunder-ai/ui)
 - Ignite, build and launch AI web apps with Nuxt, Vue3 and TailwindCSS [zunder.ai](https://zunder.ai)
-```
-
-The README has been updated with the code block delimiters changed from ``` to ```. The content remains the same as in the previous versions.
